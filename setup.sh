@@ -2,7 +2,7 @@
 
 # ─────────────────────────────────────────────────────────────────
 # HARE-KRISHNA TOOL INSTALLER v1.2
-# Author: CYBER-MRINAL
+# Author: CYBER-4RMY
 # Description: Installs all dependencies and sets up hare-krishna3.sh
 # ─────────────────────────────────────────────────────────────────
 
