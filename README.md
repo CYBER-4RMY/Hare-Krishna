@@ -2,7 +2,7 @@
 
 ![banner](https://img.shields.io/badge/Bash-Anonymizer-blue.svg) ![license](https://img.shields.io/badge/License-MIT-green.svg)
 
-> ⚔️ **By CYBER-MRINAL**  
+> ⚔️ **By CYBER-4RMY**  
 > Advanced Linux-based MAC/IP randomizer + Tor anonymizer  
 > Protect your identity. Defend your network. Stay hidden like a ghost. 🛡️
 
@@ -48,7 +48,7 @@ It combines **MAC address spoofing**, **IP obfuscation**, and **Tor-based routin
 ### 🔧 Using `setup.py` (Recommended)
 
 ```bash
-git clone https://github.com/CYBER-MRINAL/Hare-Krishna.git
+git clone https://github.com/CYBER-4RMY/Hare-Krishna.git
 cd Hare-Krishna
 chmod +x setup.sh
 sudo ./setup.sh
@@ -144,10 +144,9 @@ Always run as **root or with sudo**, and make sure to:
 
 Pull requests, improvements, and suggestions are always welcome.
 
-📧 Author: CYBER-MRINAL  
-🔗 GitHub: [CYBER-MRINAL](https://github.com/CYBER-MRINAL)  
+📧 Author: CYBER-4RMY  
+🔗 GitHub: [CYBER-4RMY](https://github.com/CYBER-4RMY)  
 🛕 Inspired by ancient wisdom, coded for modern defense.
-For more query and issue go to my [telegram](https://t.me/cybermrinalgroup/3) and ask me.
 
 ---
 
